@@ -19,3 +19,10 @@ Rose quartz: #B2A3B5
 ## Custom Change
 
 Added a Hello There section with a this is my change text beneath
+
+## Github Pages Link
+https://tim-vuong.github.io/cmsc389T-web-template/
+
+## TerpConnect Link
+https://terpconnect.umd.edu/~tvuong13/cmsc389T-web-template/
+
