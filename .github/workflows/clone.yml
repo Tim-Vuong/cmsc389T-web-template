@@ -13,4 +13,4 @@ jobs:
           password: ${{ secrets.PASSWORD }}
           port: ${{ secrets.PORT }}
           script: |
-            git clone
+            git clone https://github.com/Tim-Vuong/cmsc389T-web-template.git
